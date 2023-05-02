@@ -8,6 +8,8 @@ My usual nickname is Blade_Reaver or in cases that the underscore is not allowed
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,idea,spring,maven,hibernate,jenkins,kafka,docker,postman,linkedin,linux,md,regex)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BladeReaver&theme=blue-green)](https://github.com/BladeReaver/github-readme-stats)
+
 <!-- Old profile:
 I currently work as a Java developer for a big company that has contract based work. I have worked for them at several companies spread throughout different fields. The last few jobs have been at large banks in the Netherlands. In my spare time, I mostly game and spend some time updating my knowledge.
 -->
